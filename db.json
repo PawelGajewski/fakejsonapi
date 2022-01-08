@@ -1,0 +1,9 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "name": "led0",
+      "status": false
+    }
+  ]
+}
