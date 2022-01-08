@@ -1,8 +1,14 @@
 {
-  "led": {
-    "status": "true"
-  },
-  "servo":{
-    "status": "false"
-  }
+  "device": [
+    {
+      "id": 1,
+      "name": "led0",
+      "status": false
+    },
+      {
+      "id": 2,
+      "name": "led1",
+      "status": false
+    },
+  ]
 }
