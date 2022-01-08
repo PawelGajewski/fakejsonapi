@@ -1,14 +1,11 @@
 {
-  "device": [
+  "posts": [
     {
       "id": 1,
-      "name": "led0",
-      "status": false
-    },
-      {
-      "id": 2,
-      "name": "led1",
-      "status": false
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
